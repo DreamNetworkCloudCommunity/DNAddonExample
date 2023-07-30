@@ -1,0 +1,5 @@
+dreamyPath: org.example.addon.MainAddon
+dreamyName: Addon
+version: 1.0
+authors: [Author]
+description: Addon for Dreamy

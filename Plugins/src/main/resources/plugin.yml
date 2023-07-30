@@ -1,0 +1,3 @@
+main: be.alexandre01.plugins.MainPlugins
+name: Plugin
+version: 1.0
