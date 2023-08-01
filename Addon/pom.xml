@@ -55,7 +55,7 @@
                     <resource>
                         <directory>${maven.multiModuleProjectDirectory}/Plugins/target/</directory>
                         <includes>
-                            <include>Plugins-1.0-SNAPSHOT.jar</include>
+                            <include>*.jar</include>
                         </includes>
                     </resource>
                 </resources>
